@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Title</title>
+    <style>
+      body{
+        background : CFF5E7;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>Chayapol Kaewchaijaroenkit
+
+      <h1>
+      <img src="" alt="" >
+    </header>
+    <article>
+      <section>
+        <h2>Profile</h2>
+        <ul>
+         
+        </ul>
+      </section>
+
+      <section>
+        <h2>Contract information</h2>
+        <li>
+        Line id : goodgodboyz 
+        Facebook : Chayapol Kaewchaijaroenkit 
+        IG : __goodgodboy__
+        Tel. 0958095452
+        E-mail : good2006maser@gmail.com
+      </li>
+
+      </section>
+      <h2>Skills & Interest</h2>
+      <li>
+        Coding and programming 
+        Foreign languages (English & Chinese)
+        Calculating
+        Football and other sports
+    </li>
+    </article>
+  </body>
+  
+</html>
